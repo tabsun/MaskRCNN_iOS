@@ -18,7 +18,7 @@ The content is like this:
 ## Performance
 
 <div align=center>
-<img widht=700 src="https://wx4.sinaimg.cn/mw1024/89ef5361ly1fsbvb2amarj20xt0fkdh2.jpg"/>
+<img width=700 src="https://wx4.sinaimg.cn/mw1024/89ef5361ly1fsbvb2amarj20xt0fkdh2.jpg"/>
 </div>
 
 ## Workflow
