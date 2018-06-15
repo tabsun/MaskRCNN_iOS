@@ -23,7 +23,9 @@ Take the MaskRCNN as an example, some layers are not supported by CoreML. We imp
 
 So you can see this:
 
-![](https://wx3.sinaimg.cn/mw1024/89ef5361ly1fsbvb2eo43j20hj0inabi.jpg)
+<div align=center>
+<img width=350 src="https://wx3.sinaimg.cn/mw1024/89ef5361ly1fsbvb2eo43j20hj0inabi.jpg"/>
+</div>
     
 ## Contact
 
