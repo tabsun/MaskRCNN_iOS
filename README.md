@@ -10,16 +10,20 @@ Also it includes another model for __semantic segmentation and depth estimation_
     
 The content is like this:
 
-![](https://wx4.sinaimg.cn/mw1024/89ef5361ly1fsbvb2jat6j20yo0icac6.jpg)
+<div align=center>
+<img width=700 src="https://wx4.sinaimg.cn/mw1024/89ef5361ly1fsbvb2jat6j20yo0icac6.jpg"/>
+</div>
 
 
 ## Performance
 
-![](https://wx4.sinaimg.cn/mw1024/89ef5361ly1fsbvb2amarj20xt0fkdh2.jpg)
+<div align=center>
+<img widht=700 src="https://wx4.sinaimg.cn/mw1024/89ef5361ly1fsbvb2amarj20xt0fkdh2.jpg"/>
+</div>
 
 ## Workflow
 
-Take the MaskRCNN as an example, some layers are not supported by CoreML. We implement those parts in c++ and then convert variables between<font color=blue > __c++ structures__(blue parts)</font> and<font color=orange> __MLMultiArray__(yellow parts)</font>.
+Take the MaskRCNN as an example, some layers are not supported by CoreML. We implement those parts in c++ and then convert variables between<font color=#0099ff> __c++ structures__(blue parts)</font> and<font color=#999900> __MLMultiArray__(yellow parts)</font>.
 
 So you can see this:
 
