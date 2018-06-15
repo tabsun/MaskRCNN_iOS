@@ -10,16 +10,12 @@ Also it includes another model for __semantic segmentation and depth estimation_
     
 The content is like this:
 
-<div align=center>
 ![](https://wx4.sinaimg.cn/mw1024/89ef5361ly1fsbvb2jat6j20yo0icac6.jpg)
-</div>
 
 
 ## Performance
 
-<div align=center>
-![](https://wx4.sinaimg.cn/mw1024/89ef5361ly1fsbvb2amarj20xt0fkdh2.jpg")
-</div>
+![](https://wx4.sinaimg.cn/mw1024/89ef5361ly1fsbvb2amarj20xt0fkdh2.jpg)
 
 ## Workflow
 
@@ -27,11 +23,7 @@ Take the MaskRCNN as an example, some layers are not supported by CoreML. We imp
 
 So you can see this:
 
-<div align=center> 
 ![](https://wx3.sinaimg.cn/mw1024/89ef5361ly1fsbvb2eo43j20hj0inabi.jpg)
-</div>
-
-
     
 ## Contact
 
