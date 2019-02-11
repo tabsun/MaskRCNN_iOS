@@ -21,6 +21,12 @@ The content is like this:
 <img width=700 src="https://wx4.sinaimg.cn/mw1024/89ef5361ly1fsbvb2amarj20xt0fkdh2.jpg"/>
 </div>
 
+## Models
+
+To use this project, you need to download the [pre-trained models](https://pan.baidu.com/s/1OHHLX24Z4fYEM6J2YNaC5A) and drag these models into this project in xcode. Or you can put them in ./DPFruit directly.
+
+Also do not forget the opencv2.framework.
+
 ## Workflow
 
 Take the MaskRCNN as an example, some layers are not supported by CoreML. We implement those parts in c++ and then convert variables between<font color=#0099ff> __c++ structures__(blue parts)</font> and<font color=#999900> __MLMultiArray__(yellow parts)</font>.
